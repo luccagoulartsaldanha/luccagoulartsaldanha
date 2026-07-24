@@ -9,7 +9,7 @@
 
 - I enjoy learning by building and experimenting with new tools.
 - I'm interested in programming, game development, and digital creativity.
-- I'm building [Bactus](bactus.dev), my startup.
+- I'm building [Bactus](https://bactus.dev), my startup.
 - My goal is to keep improving, one project at a time.
 
 ## 🧰 Tech I work with
